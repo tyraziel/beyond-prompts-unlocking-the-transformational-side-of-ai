@@ -1,0 +1,32 @@
+/*
+Overall Highlighting Colors (for reference)
+
+From reveal.css:
+
+highlight-blue    #1b91ff
+highlight-green   #17ff2e
+highlight-red     #ff2c2d
+
+From fragments.css:
+
+highlight-purple  #6b2cff
+highlight-orange  #a84803
+
+*/
+
+.reveal .fragment.highlight-purple,
+.reveal .fragment.highlight-current-purple,
+.reveal .fragment.highlight-orange,
+.reveal .fragment.highlight-current-orange,
+.reveal .fragment.highlight-yellow,
+.reveal .fragment.highlight-current-yellow{
+  opacity:1;
+  visibility:inherit;
+}
+
+.reveal .fragment.highlight-purple.visible,
+.reveal .fragment.highlight-current-purple.current-fragment{color:#6b2cff}
+.reveal .fragment.highlight-orange.visible,
+.reveal .fragment.highlight-current-orange.current-fragment{color:#a84803}
+.reveal .fragment.highlight-yellow.visible,
+.reveal .fragment.highlight-current-yellow.current-fragment{color:#cdb00d}
