@@ -17,3 +17,7 @@ By the end, you’ll have a fresh framework for collaborating with AI that makes
 3) **Construct Confidently**: Apply a practical framework for human–AI collaboration that emphasizes judgment, creativity, and guardrails.
 
 4) **Communicate Clearly**: Use accessible stories and analogies to explain AI concepts to colleagues, teams, and non-technical audiences.
+
+## Live Slides
+
+[Beyond Prompts: Unlocking the Transformational Side of AI - Live Slides](https://tyraziel.github.io/beyond-prompts-unlocking-the-transformational-side-of-ai/)
