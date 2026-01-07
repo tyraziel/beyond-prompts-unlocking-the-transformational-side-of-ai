@@ -19,14 +19,22 @@ highlight-orange  #a84803
 .reveal .fragment.highlight-orange,
 .reveal .fragment.highlight-current-orange,
 .reveal .fragment.highlight-yellow,
-.reveal .fragment.highlight-current-yellow{
+.reveal .fragment.highlight-current-yellow,
+.reveal .fragment.highlight-skyblue,
+.reveal .fragment.highlight-current-skyblue,
+.reveal .fragment.highlight-violet,
+.reveal .fragment.highlight-current-violet{
   opacity:1;
   visibility:inherit;
 }
 
 .reveal .fragment.highlight-purple.visible,
-.reveal .fragment.highlight-current-purple.current-fragment{color:#A185FF}
+.reveal .fragment.highlight-current-purple.current-fragment{color:#c0acff}
 .reveal .fragment.highlight-orange.visible,
 .reveal .fragment.highlight-current-orange.current-fragment{color:#FF7A1A}
 .reveal .fragment.highlight-yellow.visible,
 .reveal .fragment.highlight-current-yellow.current-fragment{color:#FFEC66}
+.reveal .fragment.highlight-skyblue.visible,
+.reveal .fragment.highlight-current-skyblue.current-fragment{color:deepskyblue}
+.reveal .fragment.highlight-violet.visible,
+.reveal .fragment.highlight-current-violet.current-fragment{color:darkviolet}
